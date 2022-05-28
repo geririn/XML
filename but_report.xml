@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+  <id>1</id>
+  <summary>The Add button is inactive by default on Home page</summary>
+  <steps to reproduce>1.Open Home page, 2.Pay attention to the Add button</steps to reproduce>
+  <expected result>The Add button is active</expected result>
+  <actual result>The Add button is inactive</actual result>
+  <priority>High</priority>
+  <severity>High</severity>
